@@ -1,0 +1,301 @@
+body{
+                background-color: white;
+            }
+            h1{
+                font-family: Arial, Helvetica, sans-serif;
+                position: absolute;
+                margin-top: -200px;
+                font-size: 24px;
+                margin: -200px 5px 100px 5px;
+            }
+            p{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                color: brown;
+                position: absolute;
+                margin-top: -105px;
+                margin: -105px 5px 100px 5px;
+            }
+             p1{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 18px;
+                color: rgb(255, 255, 255);
+                position: absolute;
+                margin-left: -130px;
+                margin-top: -110px;
+            }
+            .menu-c{
+                margin-top: 3px;
+                margin-left: 100px;
+            }
+            .menu-bawah{
+                font-family: Arial, Helvetica, sans-serif;
+                text-decoration: none;
+                color: rgb(255, 255, 255);
+                margin: -101px 5px 100px 5px;
+
+            }
+            .box{
+                z-index: 2;
+                width: 443px;
+                height: 100px;
+                margin: -50px;
+                padding: -50px;
+                background-color: black;
+                color: black;
+            }
+            .box1{
+                position: absolute;
+                top: 106px;
+                width: 440px;
+                height: 25px;
+                margin: -50px;
+                padding: -50px;
+                box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+                background-color: rgb(255, 255, 255);
+            }
+            .box2{
+                position: absolute;
+                top: 51px;
+                width: 495px;
+                height: 28px;
+                margin: -50px;
+                padding: -50px;
+                background-color: rgb(72, 72, 72);
+                color: rgb(72, 72, 72);
+            }
+            .logo{
+                width: 60px;
+                margin: 40px 10px 100px 50px;
+            }
+            .text{
+                margin-left: 200px;
+                margin-top: 120px;
+            }
+            .menu{
+                position: absolute;
+                margin-top: -119px;
+                margin-left: 140px;
+                width: 40px;
+                border-radius: 15px;
+            }
+            .sc{
+                position: absolute;
+                margin-top: -115px;
+                margin-left: 105px;
+                width: 30px;
+                border-radius: 15px;
+            }
+            .pp{
+                position: absolute;
+                margin-top: -118px;
+                margin-left: 65px;
+                width: 35px;
+                border-radius: 15px;
+            }
+            .jakarta{
+                font-family: Arial, Helvetica, sans-serif, ;
+                font-weight: bold;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                position: absolute;
+                margin-top: -20px;
+                margin: -20px 5px 100px 5px;
+            }
+            .menteri{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: -20px;
+                margin-left: 180px;
+            }
+            .menteri1{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: -1px;
+                margin-left: 1px;
+                margin: -1px 5px 100px 5px;
+            }
+            
+            .menteri2{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: 15px;
+                margin-left: 1px;
+                margin: 19px 5px 100px 5px;
+            }
+            .menteri3{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: 35px;
+                margin-left: 1px;
+                margin: 40px 5px 100px 5px;
+            }
+            .menteri4{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: 35px;
+                margin-left: 1px;
+                margin: 75px 5px 100px 5px;
+            }
+            .menteri5{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: 35px;
+                margin-left: 1px;
+                margin: 98px 5px 100px 5px;
+            }
+            .menteri6{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: 35px;
+                margin-left: 1px;
+                margin: 120px 5px 100px 5px;
+            }
+            .menteri7{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: 35px;
+                margin-left: 1px;
+                margin: 155px 5px 100px 5px;
+            }
+            .menteri8{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: 35px;
+                margin-left: 1px;
+                margin: 177px 5px 100px 5px;
+            }
+            .menteri9{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: 35px;
+                margin-left: 1px;
+                margin: 198px 5px 100px 5px;
+            }
+            .menteri10{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: 35px;
+                margin-left: 1px;
+                margin: 235px 5px 100px 5px;
+            }
+            .menteri11{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: 35px;
+                margin-left: 1px;
+                margin: 257px 5px 100px 5px;
+            }
+            .menteri12{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                color: rgb(0, 0, 0);
+                display: block;
+                margin-top: 35px;
+                margin-left: 1px;
+                margin: 278px 5px 100px 5px;
+            }
+            .space{
+                position: absolute;
+                margin-top: -230px;
+                margin-left: 75px;
+                color: black;
+                font-size: 15px;
+            }
+            .tanggal{
+                 font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                color: rgb(182, 182, 182);
+                position: absolute;
+                margin-top: -80px;
+                margin: -80px 5px 100px 5px;
+            }
+            .link{
+                font-family: Arial, Helvetica, sans-serif;
+                text-decoration: none;
+                color: black;
+                position: absolute;
+                font-size: 15px;
+                margin-top: -230px;
+                margin-left: 10px;
+            }
+            .link1{
+                font-family: Arial, Helvetica, sans-serif;
+                text-decoration: none;
+                color: black;
+                position: absolute;
+                font-size: 15px;
+                margin-top: -230px;
+                margin-left: 90px;
+            }
+            .bagikan{
+                position: absolute;
+                margin-top: -35px;
+                color: black;
+                font-size: 15px;
+                margin: -33px 5px 100px 5px;
+            }
+            .wa{
+                position: absolute;
+                margin-top: -40px;
+                margin-left: 70px;
+                width: 30px;
+                border-radius: 15px;
+            }
+            .fb{
+                position: absolute;
+                margin-top: -40px;
+                margin-left: 105px;
+                width: 30px;
+                border-radius: 15px;
+            }
+            .tw{
+                position: absolute;
+                margin-top: -40px;
+                margin-left: 140px;
+                width: 30px;
+                border-radius: 15px;
+            }
+            .lk{
+                position: absolute;
+                margin-top: -40px;
+                margin-left: 175px;
+                width: 30px;
+                border-radius: 15px;
+            }
+            .berita{
+                display: block;
+                width: 370px;
+                margin: 320px 15px 100px 5px;
+            }
+            .descripsi{
+                display: block;
+                font-size: 12px;
+                margin-top: -90px;
+                margin: -90px 5px 100px 5px;
+                color: rgb(157, 157, 157);
+            }
